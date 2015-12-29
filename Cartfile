@@ -1,0 +1,4 @@
+# Internal
+
+# External
+github "ReactiveCocoa/ReactiveCocoa" ~> 2.5

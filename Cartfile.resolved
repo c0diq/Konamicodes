@@ -1,0 +1,2 @@
+github "ReactiveCocoa/ReactiveCocoa" "v2.5"
+github "ReactiveCocoa/ReactiveViewModel" "0.3.3"
